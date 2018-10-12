@@ -1,0 +1,36 @@
+body {
+background: #082f15;
+text-align: center;
+}
+
+#h1 {
+	width: 600px;
+	height: 40px;
+	margin: 25px auto;
+	font-family: Arial;
+	font-size: 24px;
+	color: orange;
+	padding: 5px;
+}
+
+
+
+#gb {
+	text-align: center;
+	margin: 25px auto;
+	background: yellow;
+	width: 200px;
+	font-family: Arial;
+	border: solid 5px #FFFFFF;
+}
+
+#p {
+	text-align: center;
+	font-family: Arial;
+}
+
+#img {
+	padding: 25px;
+	border: solid 5px #FFFFFF;
+	margin: 50px;
+}

@@ -1,0 +1,15 @@
+body {
+background: #B5CCBF;
+text-align: center;
+}
+
+#h1 {
+	width: 200px;
+	height: 40px;
+	background: #F4C20D;
+	margin: 25px auto;
+	border: solid 2px #F4C20D;
+	font-family: Arial;
+	border: solid 5px #000000;
+}
+
